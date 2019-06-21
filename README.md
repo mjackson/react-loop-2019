@@ -1,10 +1,17 @@
 Title: Composing Behavior in React or Why React Hooks are Awesome
+Abstract: Explore how React hooks use regular JavaScript function composition to model complex state and behavior.
+Where: React Loop 2019, Chicago, IL
+When: June 21, 2019
 
-Code examples: https://github.com/mjackson/react-loop-2019/blob/master/hooks.js
+### Repo
 
-Working repo: https://github.com/ReactTraining/hooks-workshop
+The repo I used in the talk is here: https://github.com/ReactTraining/hooks-workshop
 
-Outline:
+### Examples
+
+All of the examples I built in this talk are here: https://github.com/mjackson/react-loop-2019/blob/master/hooks.js
+
+### Outline
 
 - Who am I?
 - What does "composition" mean?

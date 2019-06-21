@@ -1,5 +1,11 @@
 Title: Composing Behavior in React or Why React Hooks are Awesome
 
+Code examples: https://github.com/mjackson/react-loop-2019/blob/master/hooks.js
+
+Working repo: https://github.com/ReactTraining/hooks-workshop
+
+Outline:
+
 - Who am I?
 - What does "composition" mean?
   - Discrete behaviors
@@ -22,5 +28,3 @@ Title: Composing Behavior in React or Why React Hooks are Awesome
 - Hooks as useReducer Middleware
   - useLogger in \<Feed>
   - useThunk in \<Feed>
-
-Working repo: https://github.com/ReactTraining/hooks-workshop

@@ -22,3 +22,5 @@ Title: Composing Behavior in React or Why React Hooks are Awesome
 - Hooks as useReducer Middleware
   - useLogger in \<Feed>
   - useThunk in \<Feed>
+
+Working repo: https://github.com/ReactTraining/hooks-workshop

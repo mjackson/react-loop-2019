@@ -64,7 +64,7 @@ export function useLogger([state, dispatch]) {
     const action = actionRef.current;
 
     if (action) {
-      console.group();
+      console.group('Dispatch');
       console.log('Action:', action);
       console.log('State:', state);
       console.groupEnd();

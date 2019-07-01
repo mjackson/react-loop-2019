@@ -1,6 +1,9 @@
-Title: Composing Behavior in React or Why React Hooks are Awesome
+## Composing Behavior in React or Why React Hooks are Awesome
+
 Abstract: Explore how React hooks use regular JavaScript function composition to model complex state and behavior.
+
 Where: React Loop 2019, Chicago, IL
+
 When: June 21, 2019
 
 ### Video

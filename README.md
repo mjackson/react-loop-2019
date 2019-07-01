@@ -3,6 +3,14 @@ Abstract: Explore how React hooks use regular JavaScript function composition to
 Where: React Loop 2019, Chicago, IL
 When: June 21, 2019
 
+### Video
+
+<div style="text-align:center">
+  <a title="Composing Behavior in React or Why React Hooks are Awesome" href="https://www.youtube.com/watch?v=nUzLlHFVXx0">
+    <img alt="Composing Behavior in React or Why React Hooks are Awesome" src="http://img.youtube.com/vi/nUzLlHFVXx0/0.jpg" />
+  </a>
+</div>
+
 ### Repo
 
 The repo I used in the talk is here: https://github.com/ReactTraining/hooks-workshop

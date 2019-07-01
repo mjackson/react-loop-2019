@@ -5,11 +5,11 @@ When: June 21, 2019
 
 ### Video
 
-<div style="text-align:center">
+<p align="center">
   <a title="Composing Behavior in React or Why React Hooks are Awesome" href="https://www.youtube.com/watch?v=nUzLlHFVXx0">
     <img alt="Composing Behavior in React or Why React Hooks are Awesome" src="http://img.youtube.com/vi/nUzLlHFVXx0/0.jpg" />
   </a>
-</div>
+</p>
 
 ### Repo
 

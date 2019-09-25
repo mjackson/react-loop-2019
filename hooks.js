@@ -1,4 +1,4 @@
-import { useEffect, useRef, useState } from 'react';
+import { useEffect, useRef, useState, useCallback } from 'react';
 
 export function useLogging(message) {
   useEffect(() => {
@@ -55,10 +55,10 @@ export function useUndo([state, setState]) {
 export function useLogger([state, dispatch]) {
   const actionRef = useRef();
 
-  const newDispatchRef = useRef(action => {
+  const newDispatchRef = useCallback(action => {
     actionRef.current = action;
     dispatch(action);
-  });
+  }, [dispatch]);
 
   useEffect(() => {
     const action = actionRef.current;
